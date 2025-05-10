@@ -6,9 +6,9 @@
 *                                                               *
 * Design a class named Employee. The class should keep the      *
 * following information:                                        *
-* � Employee name                                               *
-* � Employee number                                             *
-* � Hire date                                                   *
+*  Employee name                                                *
+*  Employee number                                              *
+*  Hire date                                                    *
 *                                                               *
 * Write one or more constructors, and the appropriate accessor  *
 * and mutator functions, for the class.                         *
@@ -17,8 +17,8 @@
 * from the Employee class.                                      *
 * The ProductionWorker class should have member variables to    *
 * hold the following information:                               *
-*  Shift (an integer)                                          *
-*  Hourly pay rate (a double)                                  *
+*  Shift (an integer)                                           *
+*  Hourly pay rate (a double)                                   *
 *                                                               *
 * The workday is divided into two shifts: day and night.        *
 * The shift variable will hold an integer value representing    *
